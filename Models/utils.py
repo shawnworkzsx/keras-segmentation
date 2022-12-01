@@ -4,7 +4,8 @@
 @file: utils.py
 @time: 2018/12/18 14:58
 """
-from keras.engine import Layer
+# from keras.engine import Layer
+from keras.layers import Layer
 import keras.backend as K
 
 
